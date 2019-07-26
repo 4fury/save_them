@@ -1,7 +1,5 @@
 ## Save them!
     
-Here I will save some interesting soft. Their development is terminated. I hope someone brings them back to life.
-    
 **Geh**: once a part of the pekwm project.     
 #### Features:
 * native GTK+ interface,
